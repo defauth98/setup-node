@@ -1,0 +1,27 @@
+{
+  "name": "setup-node",
+  "version": "0.0.1",
+  "description": "Projeto de demostração de inicialização de configuração com node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defauth98/setup-node.git"
+  },
+  "keywords": [],
+  "author": "Daniel Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defauth98/setup-node/issues"
+  },
+  "homepage": "https://github.com/defauth98/setup-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
